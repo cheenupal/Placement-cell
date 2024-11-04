@@ -8,7 +8,7 @@
 ##Demo
 http://localhost:3002/home
 
-https://mani-hirehub.onrender.com/
+https://placement-cell-oj62.onrender.com
 
 ## Prerequisites
 
